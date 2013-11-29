@@ -13,6 +13,7 @@ import uk.co.caprica.vlcj.runtime.RuntimeUtil;
 
     public class Main {
 //link to tutorial is http://www.capricasoftware.co.uk/projects/vlcj/tutorial1.html
+//requires vlc
 
         private final EmbeddedMediaPlayerComponent mediaPlayerComponent;
 
